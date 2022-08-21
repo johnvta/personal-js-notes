@@ -155,7 +155,8 @@
 // console.log(!false); = true
 
 
-// while loop
+//  while loop
+// EX1
 let i = 0;
 
 while (i < 10) {    // starts at 0 - 9
@@ -163,13 +164,15 @@ while (i < 10) {    // starts at 0 - 9
     i++;
 }
 
-// for loop
+//  for loop
+// EX1
 for (let i = 0; i < 10; i++) {
     console.log(i);
 }
 
 
-// if/else
+//  if/else
+// EX1
 const age = 15;
 
 if (age > 18) {
@@ -181,7 +184,7 @@ if (age > 18) {
 }
 
 
-// functions
+//  functions
 // A BLOCK OF CODE => PERFORMS A TASK
 
 
@@ -191,9 +194,9 @@ function square(number) {
 }
 
 // A FUNCTION CALL (calling/executing a function)
-const result = square(5)
+//const result = square(5)
 
-console.log(result)
+//console.log(result)
 
 
 // STEPS FOR FUNCTION
